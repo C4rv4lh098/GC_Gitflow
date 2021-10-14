@@ -1,0 +1,1 @@
+Simulação do gitflow na disciplina de Gerência de Configuração
